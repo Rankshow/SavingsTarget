@@ -7,6 +7,10 @@
 main {
     flex: 1;
 }
+.LoginIn{
+    color: #ffffff;
+    font:bold;
+}
 
 .sidebar {
     /*background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);*/
